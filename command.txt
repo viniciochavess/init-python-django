@@ -1,0 +1,8 @@
+## pip virtualenv
+python -m venv "name"
+
+##guia dependencia
+pip freeze > requerements.txt
+
+pip install -r requerements.txt // realizar a instalação das dependencias
+
