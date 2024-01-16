@@ -18,4 +18,4 @@ lista_de_palavras = text.split()
 print(''.join(lista_de_palavras)) # AULAPYCODEBR
 print('-'.join(lista_de_palavras)) # AULA-PYCODEBR
 text = "   AULA PYCODEBR    "
-print(text.strip()) # remove espaço em branco semelhante 'trim'
+print(text.strip()) # remove espaço em branco semelhante  'trim'
